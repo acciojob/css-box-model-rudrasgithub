@@ -1,2 +1,18 @@
-
-/* Your CSS Code here. */
+#outer {
+	border: 1px solid black;
+}
+#box {
+  width: 300px;
+  background-color: lightblue;
+  margin: 20px;
+  border: 15px solid blue;
+  padding: 50px;
+}
+#dashed {
+  border: 1px dashed black;
+  padding: 2px;
+  margin: 15px;
+}
+#padding {
+  border: 20px solid black;
+}
